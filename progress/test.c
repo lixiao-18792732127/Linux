@@ -4,7 +4,7 @@
 	> Mail: 736343194@qq.com
 	> Created Time: Mon 12 Jun 2017 11:13:13 AM CST
  ************************************************************************/
-
+//fork 创建函数  子进程对变量的修改不影响父进程的变量
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
